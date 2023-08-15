@@ -1,0 +1,73 @@
+.contenedorDeImagenes {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.mercadoPago {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 2px white;
+    overflow: hidden;
+}
+
+.mercadoPago:hover {
+    width: 210px;
+    height: 210px;
+}
+
+.mercadoPagoImagen {
+    height: 200px;
+    width: 200px;
+}
+
+.mercadoPagoImagen:hover {
+    width: 210px;
+    height: 210px;
+}
+
+.banco {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 2px white;
+    overflow: hidden;
+}
+
+.banco:hover {
+    width: 210px;
+    height: 210px;
+}
+
+.bancoImagen {
+    height: 200px;
+    width: 200px;
+}
+
+.bancoImagen:hover {
+    width: 210px;
+    height: 210px;
+}
+
+@media only screen and (max-width: 740px) {
+    .contenedorDeImagenes {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    }
+}
+
+.contenedorBanco{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.datosBanco {
+    color: white;
+    font-size:large;
+}
+

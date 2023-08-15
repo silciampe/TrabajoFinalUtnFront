@@ -1,0 +1,62 @@
+footer {
+    width: 100%;
+    padding: 20px 0px;
+    background-color: black;
+}
+.redes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    width: 300px;
+    }
+
+
+
+.facebook {
+    margin-right: 20px;
+    margin-top: 30px;
+    color: white;
+}
+
+.instagram {
+    color: white;
+    margin-top: 30px;
+}
+.youtube {
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+
+hr {
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 7px;
+}
+.lineaPrincipal {
+    display: flex;
+}
+
+.linea1 {
+    border-bottom: 1px solid white;
+    height: 2px;
+    padding: 0;
+    margin: 35px auto 0 auto;
+    width: 40%;
+}
+
+.linea2 {
+    border-bottom: 1px solid white;
+    height: 2px;
+    padding: 0;
+    margin: 35px auto 0 auto;
+    width: 40%;
+}
+
+h2 {
+    color: black;
+}

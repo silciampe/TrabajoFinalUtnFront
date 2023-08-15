@@ -1,0 +1,55 @@
+.espacio {
+    background-color: yellow;
+}
+.titulo {
+    padding-top: 20px;
+    text-align: center;
+    ;
+}
+
+.consulta {
+    text-transform: uppercase;
+}
+.formulario {
+    width: 20%;
+    margin: auto;
+    overflow: hidden;
+    background-color: red;
+    opacity: 85%;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    /* margin-top: 5% ; */
+}
+  
+.formulario h3 {
+    color: yellow;
+    font-size: 1em;
+    font-weight: lighter;
+    text-align: center;
+}
+  
+.form {
+    text-align: center;
+}
+  
+.form > div {
+    padding-bottom: 20px;
+}
+.form input,textarea {
+    font-size: 1em;
+    width: 80%;
+    }
+  
+.boton {
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+    font-size: 1.5em;
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.boton :hover {
+    color: red;
+}
