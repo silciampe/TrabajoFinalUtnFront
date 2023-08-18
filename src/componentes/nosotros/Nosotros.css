@@ -60,7 +60,7 @@ img {
     width: 47vw;
 }
 
-@media only screen and (max-width: 740px) {
+@media only screen and (max-width: 890px) {
     .contenedorVideos {
         display: flex;
         flex-direction: column;

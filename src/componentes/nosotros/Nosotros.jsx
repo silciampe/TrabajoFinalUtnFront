@@ -8,7 +8,7 @@ const Nosotros = () => {
     return (
     <>
     <motion.div className="contenedorCarrusel">
-        <motion.div className="divCarrusel" drag='x' dragConstraints={{right: 0, left: -800}}>
+        <motion.div className="divCarrusel" drag='x' dragConstraints={{right: -10, left: -700}}>
         {carrusel.map(carruse => (
             <motion.div className="item">     
                 <img src={carruse} alt="" />
