@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TrabajoFinalUtnFront/static/css/main.b5f9315f.css",
-    "main.js": "/TrabajoFinalUtnFront/static/js/main.7609482e.js",
+    "main.js": "/TrabajoFinalUtnFront/static/js/main.c2da4b05.js",
     "static/media/carrusel5.png": "/TrabajoFinalUtnFront/static/media/carrusel5.3d1953aaf7ede3cfbf17.png",
     "static/media/carrusel3.png": "/TrabajoFinalUtnFront/static/media/carrusel3.f2556539d38e42f02211.png",
     "static/media/carrusel6.png": "/TrabajoFinalUtnFront/static/media/carrusel6.a4b70ae5fe07d273a2ce.png",
@@ -19,10 +19,10 @@
     "static/media/MercadoPago_Logo.png": "/TrabajoFinalUtnFront/static/media/MercadoPago_Logo.4fbb4ad90c9e5ccb14ae.png",
     "index.html": "/TrabajoFinalUtnFront/index.html",
     "main.b5f9315f.css.map": "/TrabajoFinalUtnFront/static/css/main.b5f9315f.css.map",
-    "main.7609482e.js.map": "/TrabajoFinalUtnFront/static/js/main.7609482e.js.map"
+    "main.c2da4b05.js.map": "/TrabajoFinalUtnFront/static/js/main.c2da4b05.js.map"
   },
   "entrypoints": [
     "static/css/main.b5f9315f.css",
-    "static/js/main.7609482e.js"
+    "static/js/main.c2da4b05.js"
   ]
 }
