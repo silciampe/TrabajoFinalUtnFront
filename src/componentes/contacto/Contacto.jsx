@@ -56,7 +56,7 @@ const handleSubmit = async (e) => {
 
   return (
     <>
-    <section>
+    <section className='sectionFormulario'>
         <div class="espacio">
                 <div className="titulo"><strong>¡Podemos hacer grandes cosas juntos!</strong></div>
                     <div className="formulario">

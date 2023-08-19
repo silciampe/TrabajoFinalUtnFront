@@ -1,11 +1,15 @@
+.contenedorPrincipal{
+    height: 480px;
+}
 .contenedor {
     background-color: black;
     width: 100%;
     height: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
-    margin-left: 70px;
+    justify-content: space-around;
+    padding-left: 100px;
+  
     
 
 }
@@ -17,8 +21,8 @@
 .informacion {
     display: inline-block;
     position: relative;
-    width: 150px;
-    height: 150px;
+    width: 220px;
+    height: 220px;
     overflow: hidden;
     border-radius: 50%;
 }
@@ -40,8 +44,8 @@
 .nosotros {
     display: inline-block;
     position: relative;
-    width: 150px;
-    height: 150px;
+    width: 220px;
+    height: 220px;
     overflow: hidden;
     border-radius: 50%;
 }
@@ -62,16 +66,16 @@
 .gorra {
     display: inline-block;
     position: relative;
-    width: 150px;
-    height: 150px;
+    width: 220px;
+    height: 220px;
     overflow: hidden;
     background-color: black;
 }
 
 .gorrafoto {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 220px;
+    height: 220px;
 
 }
 
@@ -82,13 +86,18 @@
     .contenedor {
         display: flex;
         flex-direction: column;
+        flex-flow: wrap;
         height: 100%;
         padding-top: 40px;
-        margin-left: 0px;
+        padding-left: 0px;
+        
     }
-    .informacionfoto {
-      margin: 0px;  
-    }
+   .contenedorPrincipal {
+    height: 100%;
+   }
+   /* .contenedorgorra {
+    padding-left: 70px;
+   } */
 }
 
 h3 {

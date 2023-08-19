@@ -9,6 +9,7 @@ import { Link } from 'react-router-dom';
 const Principal = () => {
 
     return(
+        <div className="contenedorPrincipal">
         <div className="contenedor">
             <div className="contenedorinformacion">
             <Link to='/carpeta' >
@@ -48,6 +49,7 @@ const Principal = () => {
                 <div className="burbuja"></div>
                 <div className="burbuja"></div>
             </div>
+        </div>
         </div>
     )
 }

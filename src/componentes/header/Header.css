@@ -11,7 +11,7 @@
 
 nav {
     background-color: black;
-    height: 100px;
+    height: 110px;
     width: 100%;
 }
 .check {
@@ -22,8 +22,8 @@ nav {
     position: absolute;
     margin-left: 40px;
     margin-top: 10px;
-    height: 80px;
-    width: 80px;
+    height: 100px;
+    width: 100px;
 }
 
 nav ul {
@@ -44,22 +44,22 @@ nav ul li a {
 }
 
 .informacionLink {
-    font-size: small;
+    font-size: large;
     color: red;
 }
 
 .nosotrosLink {
-    font-size: small;
+    font-size: large;
     color: yellow;
 }
 
 .gorraLink {
-    font-size: small;
+    font-size: large;
     color: blue;
 }
 
 .contactoLink {
-    font-size: small;
+    font-size: large;
     color: #7cfc00;
 }
 
